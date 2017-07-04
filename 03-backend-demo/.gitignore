@@ -1,0 +1,5 @@
+*.backup
+.DS_Store
+*log.txt
+*.lock
+*.tfstate
