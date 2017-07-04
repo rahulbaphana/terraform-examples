@@ -1,5 +1,0 @@
-.DS_Store
-*.backup
-.terraform
-*log.txt
-*.lock
