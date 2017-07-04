@@ -1,0 +1,11 @@
+[default]
+aws_access_key_id = AAAAAAAAAAA
+aws_secret_access_key = secretAAAAAAAAAAA
+
+[prod]
+aws_access_key_id = BBBBBBBB
+aws_secret_access_key = secretBBBBBBBB
+
+[nonproduction]
+aws_access_key_id = AAAAAAAAAAA
+aws_secret_access_key = secretAAAAAAAAAAA
