@@ -1,2 +1,6 @@
 .DS_Store
 *.tfstate
+*.backup
+.terraform
+*log.txt
+*.lock
